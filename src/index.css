@@ -1,0 +1,34 @@
+body {
+  max-width: 38rem;
+  margin: auto;
+  padding: 2rem;
+
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.name, .number, .price, .addToCartButton {
+  font-weight: bold;
+}
+
+.price {
+  color: rgb(255, 0, 0);
+}
+.addToCartButton {
+  background-color: #FFCE00;
+  width: fit-content;
+  padding: 2px;
+}
+.card {
+  display: flex;
+  flex-wrap: wrap;
+}
+.break {
+  margin-top: 5px;
+  height: 2px;
+  background-color: lightgray;
+  width: 100%;
+}
