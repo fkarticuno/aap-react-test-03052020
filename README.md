@@ -7,6 +7,7 @@ necessary for this simpler application)
 4. There is a JSON file called "products.json"(has array of products) in the
 project directory. You need to display the list of products(from JSON) like the
 below image.
+![image]()
 5. You need not install any additional dependencies(only install new dependencies,
 if you are aiming for a bonus point) ‑ project is scaffolded from CRA,you can
 add new files and directories are needed.

@@ -32,3 +32,6 @@ body {
   background-color: lightgray;
   width: 100%;
 }
+.partNumber {
+  font-size: .5em;
+}
