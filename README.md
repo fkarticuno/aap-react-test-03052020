@@ -17,3 +17,7 @@ access the data from the store.
 accept product object as the prop)
 8. On "Add to Cart" button click, log the part number and price to the console as
 an object.
+
+
+[React Test >](https://aap-react-test-03052020.herokuapp.com/)
+[Responsive Test >](https://fkarticuno.github.io/aap-responsive-test-03082020/) 
